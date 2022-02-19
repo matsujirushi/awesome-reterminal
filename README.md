@@ -28,6 +28,7 @@
 ## UI
 
 * [reTerminalのUIアプリ(.NET+Avalonia) / SeeedJP](https://lab.seeed.co.jp/entry/2021/11/15/120000)
+* [Seeed reTerminal、Ubuntu FrameとFigmaで簡単ミニサイネージを作る / takipone](https://zenn.dev/takipone/articles/596e80d3e53589)
 
 ## コネクティビティ
 
