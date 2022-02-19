@@ -39,6 +39,7 @@
 * [reTerminalの重量 / SeeedJP](https://lab.seeed.co.jp/entry/2021/10/20/120000)
 * [reTerminalの電流 / SeeedJP](https://lab.seeed.co.jp/entry/2021/10/21/120000)
 * [reTerminalのヒートシンク温度 / SeeedJP](https://lab.seeed.co.jp/entry/2022/02/15/120000)
+* [reTerminalの保護シート / matsujirushi](https://qiita.com/matsujirushi/items/68fe9163a14f8ae41a60)
 * [reTerminalにサウンドを追加する / SeeedJP](https://lab.seeed.co.jp/entry/2021/10/19/120000)
 * [reTerminalを壁面取付 / SeeedJP](https://lab.seeed.co.jp/entry/2021/12/28/150000)
 * [reTerminalのCompute Module 4を入れ替える / SeeedJP](https://lab.seeed.co.jp/entry/2021/07/13/120000)
@@ -57,5 +58,3 @@
 * [Seeed reTerminal 拡張モジュールコンテスト / Seeed](https://protopedia.net/event/33)
 
 ## （分類困難）
-
-* [reTerminalの保護シート / matsujirushi](https://qiita.com/matsujirushi/items/68fe9163a14f8ae41a60)
