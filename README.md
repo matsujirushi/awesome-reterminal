@@ -25,6 +25,10 @@
 * [reTerminalを買って中2息子くんUbuntuを入れました / とり子](https://siroitori.hatenablog.com/entry/2022/02/14/224344)
 * [Seeed reTerminalにUbuntuを入れてデスクトップを表示する / takipone](https://zenn.dev/takipone/articles/79e5f5f77c9275)
 
+### Others
+
+* [reTerminal（Raspberry Pi CM4）でMoodeAudioを動かそう / たかじん](https://nw-electric.way-nifty.com/blog/2022/02/post-8cccc3.html)
+
 ## UI
 
 * [reTerminalのUIアプリ(.NET+Avalonia) / SeeedJP](https://lab.seeed.co.jp/entry/2021/11/15/120000)
