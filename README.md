@@ -50,6 +50,10 @@
 * [reTerminalのCompute Module 4を入れ替える / SeeedJP](https://lab.seeed.co.jp/entry/2021/07/13/120000)
 * [reTerminalのSTM32ファームウェアのバージョン確認とアップデート / SeeedJP](https://lab.seeed.co.jp/entry/2021/11/25/120000)
 
+## ケース
+
+* [ShapewaysでreTerminal用の電子基板ケースを3Dプリントした / mzyy94](https://www.mzyy94.com/blog/2022/02/28/shapeways-reterminal-plastic-case/)
+
 ## イベント
 
 * [定番から最新まで「徹底解説 IoT 向けマイコン＆コンピューター」アーカイブ動画 / SORACOM Tech Days 2021](https://youtu.be/DKmpQLBimj8)
