@@ -34,6 +34,8 @@
 
 * [reTerminalのUIアプリ(.NET+Avalonia) / SeeedJP](https://lab.seeed.co.jp/entry/2021/11/15/120000)
 * [Seeed reTerminal、Ubuntu FrameとFigmaで簡単ミニサイネージを作る / takipone](https://zenn.dev/takipone/articles/596e80d3e53589)
+* [reTerminalでmicropython + LVGL　のGUIアプリを作ろう / m_take](https://qiita.com/m_take/items/0fa99ea3384bc67b2e64)
+* [reTerminalでenebular-agentを動作させてみる / Junichi Katsu](https://qiita.com/jksoft/items/b5ebb32df9fbb0f1fb76)
 
 ## コネクティビティ
 
