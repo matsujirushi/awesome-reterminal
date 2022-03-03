@@ -19,6 +19,7 @@
 * [reTerminalのeMMCを初期状態に戻す / SeeedJP](https://lab.seeed.co.jp/entry/2021/12/28/190000)
 * [Mac で rpiboot を build する / river24](https://qiita.com/river24/items/977d13dea2af3a8dcb64)
 * [reTerminalのディスプレイ向きを直す / SeeedJP](https://lab.seeed.co.jp/entry/2022/01/20/120000)
+* [reTerminalでボタン、LED、ブザーが動かないときの対処法 / SeeedJP](https://lab.seeed.co.jp/entry/2022/03/02/120000)
 
 ### Ubuntu OS
 
@@ -65,5 +66,6 @@
 ## コンテスト
 
 * [Seeed reTerminal 拡張モジュールコンテスト / Seeed](https://protopedia.net/event/33)
+* [reTerminal拡張モジュールコンテストに応募しよう / SeeedJP](https://lab.seeed.co.jp/entry/2022/02/22/120000)
 
 ## （分類困難）
