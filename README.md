@@ -20,6 +20,7 @@
 * [Mac で rpiboot を build する / river24](https://qiita.com/river24/items/977d13dea2af3a8dcb64)
 * [reTerminalのディスプレイ向きを直す / SeeedJP](https://lab.seeed.co.jp/entry/2022/01/20/120000)
 * [reTerminalでボタン、LED、ブザーが動かないときの対処法 / SeeedJP](https://lab.seeed.co.jp/entry/2022/03/02/120000)
+* [reTerminalのeMMC書き込みを止める / SeeedJP](https://lab.seeed.co.jp/entry/2022/03/07/120000)
 
 ### Ubuntu OS
 
