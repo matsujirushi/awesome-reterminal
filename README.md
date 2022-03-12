@@ -30,6 +30,7 @@
 ### Others
 
 * [reTerminal（Raspberry Pi CM4）でMoodeAudioを動かそう / たかじん](https://nw-electric.way-nifty.com/blog/2022/02/post-8cccc3.html)
+* [reTerminalで電力測定ボード(ADJTSB01)を動かす / kitazaki](https://qiita.com/kitazaki/items/8f96710904bab4e0ae31)
 
 ## UI
 
