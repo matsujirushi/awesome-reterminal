@@ -75,3 +75,5 @@
 * [reTerminal拡張モジュールコンテストに応募しよう / SeeedJP](https://lab.seeed.co.jp/entry/2022/02/22/120000)
 
 ## （分類困難）
+
+* [reTerminalでセキュリティドアロックシステムを作りました / とり子](https://siroitori.hatenablog.com/entry/2022/04/17/121147)
