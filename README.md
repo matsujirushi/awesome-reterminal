@@ -77,3 +77,4 @@
 ## （分類困難）
 
 * [reTerminalでセキュリティドアロックシステムを作りました / とり子](https://siroitori.hatenablog.com/entry/2022/04/17/121147)
+* [話題の画面付きRaspberry Pi「reTerminal」でナビを作ろう！ 第1回：reTerminalとGPSで自転車ナビ作り / ヨシケン](https://deviceplus.jp/raspberrypi/navigation-system-with-raspberrypi-reterminal-01/)
