@@ -9,6 +9,7 @@
 * [reTerminal概要 作り方のコツ解説 / Takashi Matsuoka](https://www.slideshare.net/TakashiMatsuoka2/reterminal-251150926)
 * [reTerminalのセンサーやタッチパネルを動かしてみた知見！ / 田中正吾](https://speakerdeck.com/1ftseabass/20211216-soracom-device-meetup-vol-dot-6)
 * [reTerminalを使ってみる！ / PocketGriffon](https://pocketgriffon.hatenablog.com/entry/2022/03/13/010200)
+* [reTerminalを開けてみました！ / エレショップblog](http://eleshop.blog.jp/archives/46325925.html)
 
 ## OS
 
