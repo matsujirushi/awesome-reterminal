@@ -79,4 +79,4 @@
 
 * [reTerminalでセキュリティドアロックシステムを作りました / とり子](https://siroitori.hatenablog.com/entry/2022/04/17/121147)
 * [話題の画面付きRaspberry Pi「reTerminal」でナビを作ろう！ 第1回：reTerminalとGPSで自転車ナビ作り / ヨシケン](https://deviceplus.jp/raspberrypi/navigation-system-with-raspberrypi-reterminal-01/)
-* [reTerminalが届いたので初期設定とかATECC608Aのシリアル取得してみる / shuntaka](https://zenn.dev/shuntaka/scraps/23b5e1fc6c5e0b)
+* [[reTerminal] PKCS#11を用いて秘密鍵を安全に管理しつつAWS IoTとMQTT通信する / shuntaka](https://dev.classmethod.jp/articles/shuntaka-reterminal-pkcs11/)
